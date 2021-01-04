@@ -4,8 +4,8 @@
     --DarkGrayishRed: hsl(0, 6%, 24%);
     --LinearGradient1: linear-gradient(from hsl(0, 0%, 100%), to hsl(0, 100%, 98%));
     --LinearGradient2: linear-gradient(hsl(0, 80%, 86%), hsl(0, 74%, 74%));
-    --bgMobile: url('.images/hero-mobile.jpg');
-    --bgDesktop: url('./images/hero-desktop.jpg');
+    --bgMobile: url('../images/hero-mobile.jpg');
+    --bgDesktop: url('../images/hero-desktop.jpg');
 }
 
 body {
